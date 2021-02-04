@@ -1,1 +1,1 @@
-I am being read.
+[![Build Status](https://travis-ci.com/PPSawyer/sem.svg?branch=master)](https://travis-ci.com/PPSawyer/sem)
