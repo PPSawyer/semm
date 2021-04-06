@@ -40,4 +40,8 @@ public class Employee
      */
     public String manager;
 
+    @Override
+    public String toString() {
+        return  "" + emp_no + ", " + first_name + ", " + last_name + ", " + title + ", " + salary + ", " + dept_name;
+    }
 }
